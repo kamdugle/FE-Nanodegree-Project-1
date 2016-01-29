@@ -1,0 +1,40 @@
+@media screen and (max-width: 500px) {
+	header img {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	h1, h2, h3, h4 {text-align: center;}
+
+	h2, p {
+		padding-bottom: 1%;
+		border-bottom: 1px solid #BCBBBB;
+	}
+}
+
+body {
+	color: #5d614e;
+	font-weight: 300;
+}
+
+header {
+	border-bottom: 2px solid #BCBBBB;
+	margin-bottom: 1%;
+}
+
+*{
+	font-family: 'Lato', sans-serif;
+}
+
+.lightened {
+	color:#BCBBBB;
+}
+
+.skinny {
+	font-weight: 100;
+}
+
+.logo {
+	max-width: 10em;
+	margin-bottom: .5vw;
+}
